@@ -1,0 +1,152 @@
+ID,Name,Value,Language
+405,01_SV,Yes,Greek
+404,02_VS,Yes,Greek
+375,03_VO,Yes,Greek
+376,04_OV,No,Greek
+378,05_SVO,Yes,Greek
+379,06_SOV,No,Greek
+380,07_VSO,Yes,Greek
+381,08_VOS,Yes,Greek
+382,09_OSV,No,Greek
+383,10_OVS,No,Greek
+390,11_P NP,Yes,Greek
+391,12_NP P,No,Greek
+437,13_A N,Yes,Greek
+377,14_N A,Yes,Greek
+384,15_Num N,Yes,Greek
+385,16_N Num,No,Greek
+386,17_Dem N,Yes,Greek
+387,18_N Dem,Yes,Greek
+394,19_Poss N,No,Greek
+395,20_N Poss,Yes,Greek
+426,21_Pron.Poss N,No,Greek
+425,22_N Pron.Poss,Yes,Greek
+406,A 01_Attr.Adj Agr,Yes,Greek
+407,A 02_Pred.Adj Agr ,Yes,Greek
+396,A 03_Deg A,Yes,Greek
+397,A 04_A Deg,No,Greek
+388,C 01_C Clause,Yes,Greek
+389,C 02_Clause C,No,Greek
+392,C 03_Adv.Sub Clause,Yes,Greek
+393,C 04_Clause Adv.Sub,No,Greek
+408,Extra Examples,Yes,Greek
+524,ISO 639-3 Code,ell,Greek
+434,N2 01_Num N_(indef),Yes,Greek
+433,N2 02_N Num_(indef),No,Greek
+435,N2 03_Num N_(def),Yes,Greek
+436,N2 04_N Num_(def),No,Greek
+438,N2 F1_ Def NumN/N Num has a Def Art?,Yes,Greek
+439,N2 F2_Def NumN or NNum can have a DEM?,Yes,Greek
+440,N2 F3_Def NumN or NNum can be bare,No,Greek
+441,N2 F4a_Def NumN or NNum marks Pl but Indef Num N lacks Pl,No,Greek
+442,N2 F5_Def NumN or NNum differs from Indef NumN,No,Greek
+443,"N2 F6_Num has different form in Def and Indef (Num N, N Num) contexts",No,Greek
+444,"N2 F7_ N has different form in Def/Indef  (Num N, N Num) contexts",No,Greek
+398,N3 01_ Dem A N,Yes,Greek
+399,N3 02_Dem N A,Yes,Greek
+403,N3 03_ N A Dem,No,Greek
+402,N3 04_N Dem A,Yes,Greek
+400,N3 05_A Dem N,Yes,Greek
+401,N3 06_A N Dem,Yes,Greek
+427,N3 07_Dem Num N,Yes,Greek
+428,N3 08_Dem N Num,No,Greek
+429,N3 09_ N Num Dem,Yes,Greek
+430,N3 10_N Dem Num,Yes,Greek
+431,N3 11_Num Dem N,Yes,Greek
+432,N3 12_Num N Dem,Yes,Greek
+415,Neg 01_ Neg is Part (...) Verb,Yes,Greek
+416,Neg 02_Neg is V (...) Part,No,Greek
+420,Neg 03_Dist.Neg of  Class/Property,No,Greek
+419,Neg 04_Dist.Neg of identity,No,Greek
+421,Neg 05_Dist Neg of Location,No,Greek
+422,Neg 06_Dist.Neg of Existence,No,Greek
+417,Neg F1_Neg is NegAux,No,Greek
+418,Neg F2_ Neg is lexical V,No,Greek
+412,Neg F3_Neg is Tonal,No,Greek
+413,Neg F4_Neg is Tone and other modification,No,Greek
+414,Neg F5_Neg is Reduplication,No,Greek
+411,Neg F6_Neg is Infix,No,Greek
+467,O 01 1_Indef Mass_Can be bare,Yes,Greek
+469,O 01 2_Indef_Mass_Can have an article,No,Greek
+468,O 01 3_Indef_Mass_Must have an article,No,Greek
+470,O 02 1_Def_Mass _Can be bare,No,Greek
+472,O 02 2_Def_Mass _Can  have an article,No,Greek
+471,O 02 3_Def_Mass _Must have an article,Yes,Greek
+501,O 02 4.1_DefMass_Art-N,Yes,Greek
+502,O 02 4.2_DefMass_N-Art,No,Greek
+474,O 03 1_Indef_Sg_Can be bare,Yes,Greek
+473,O 03 2_Indef_Sg_Can have an article,Yes,Greek
+475,O 03 3_Indef_Sg_Must have an article,No,Greek
+476,O 03 4_Indef_Sg_Can have a plural reading,No,Greek
+477,O 04 1_Def_Sg_Can be bare,No,Greek
+479,O 04 2_Def_Sg_Can have an article,No,Greek
+478,O 04 3_Def_Sg_Must have an article,Yes,Greek
+503,O 04 4.1_DefSg_Art-N,Yes,Greek
+504,O 04 4.2_DefSg_N-Art,No,Greek
+480,O 05 1_Indef_Pl_Can be bare,Yes,Greek
+482,O 05 2_Indef_Pl_Can have an article,No,Greek
+481,O 05 3_Indef_Pl_Must have an article,No,Greek
+483,O 06 1_Def_Pl_Can be bare,No,Greek
+485,O 06 2_Def_Pl_Can have an article,No,Greek
+484,O 06 3_Def_Pl_Must have an article,Yes,Greek
+505,O 06 4.1_DefPl_Art-N,Yes,Greek
+506,O 06 4.2_DefPl_N-Art,No,Greek
+486,O 07 1_Unique Ref_Can be bare,Yes,Greek
+488,O 07 2_Unique Ref_Can have an article,Yes,Greek
+487,O 07 3_Unique Ref_Must have an article,No,Greek
+489,O 07 4_Unique Ref_Must have a 'special article',No,Greek
+490,O 08 1_PN_Can be bare,No,Greek
+492,O 08 2_PN_Can have an article,No,Greek
+491,O 08 3_PN_Must have an article,Yes,Greek
+526,O 08 4_PN_Must have a 'special article',No,Greek
+494,O 08 5.1_Art-PN,Yes,Greek
+495,O 08 5.1_PN-Art,No,Greek
+496,O 09 1_PN+A_Can be bare,No,Greek
+498,O 09 2_PN+A_Can have an article,No,Greek
+497,O 09 3_PN+A_Must have an article,Yes,Greek
+499,O 09 4.1_ Adj-PN,Yes,Greek
+500,O 09 5.2_ PN-Adj,Yes,Greek
+445,Q01_Initial polar Q-marker,No,Greek
+446,Q02_Final polar Q-marker,No,Greek
+447,Q03_Clause internal polar Q-marker,No,Greek
+448,Q04_Polar question by intonation,No,Greek
+449,Q05_Polar question by V-fronting,Yes,Greek
+450,Q06_Polar question by Aux-fronting,Yes,Greek
+451,Q07_Q-marker follows narrow focus,No,Greek
+452,Q08_Affirmative answer by particle,Yes,Greek
+453,Q09_Affirmative answer by V,Yes,Greek
+454,Q10_Affirmative answer by aux,Yes,Greek
+455,Q11_Affirmative answer by auxiliary and verb,Yes,Greek
+456,Q12_Affirmative answer by particle and verb,No,Greek
+457,Q13_Affirmative answer by predicative 'be' ,No,Greek
+458,Q14_Verb answer to indefinite subject question,Yes,Greek
+459,Q15_Particle-and-verb answer to indefinite subject question,No,Greek
+460,Q16_NEGA_Negative answer by special neg particle,Yes,Greek
+461,Q17_NEGA_Neg answer by bare sentential negation,No,Greek
+462,Q18_NEGA_Neg answer by sentential neg plus bare verb,Yes,Greek
+463,Q19_ANegQ_Truth-based confirmation,Yes,Greek
+464,Q20_ANegQ_Polarity-based confirmation,Yes,Greek
+465,Q21_ANegQ_Polarity-reversing particle,Yes,Greek
+466,Q22_ANegQ_Polarity-reversing answer by affirmative and special particle,Yes,Greek
+737,S03_1 Indef Sg count Ns (Subj) can be bare,Yes,Greek
+739,S03_2 Indef Sg count Ns (Subj) can have an article,Yes,Greek
+738,S03_3 Indef Sg count Ns (Subj) must have an article,No,Greek
+423,V2 01_Declarative Verb-Second,No,Greek
+424,V2 02_Interrogative Verb-Second,No,Greek
+374,V_Aux 01_Aux.Selection,No,Greek
+512,Voc_PN_01 Can be bare?,Yes,Greek
+514,Voc_PN_02 Can have an article,No,Greek
+513,Voc_PN_03 Must have an article?,No,Greek
+516,Voc_PN_04 Can have a special vocative marker?,Yes,Greek
+515,Voc_PN_05 Must have a special vocative marker?,Yes,Greek
+517,Voc_Pl_01 Can be bare?,Yes,Greek
+519,Voc_Pl_02 Can have an article?,No,Greek
+518,Voc_Pl_03 Must have an article?,No,Greek
+521,Voc_Pl_04 Can have a special vocative marker?,Yes,Greek
+520,Voc_Pl_05 Must have a special vocative marker?,Yes,Greek
+507,Voc_Sg_01 Can be bare?,Yes,Greek
+509,Voc_Sg_02 Can have an article?,No,Greek
+508,Voc_Sg_03 Must have an article?,No,Greek
+511,Voc_Sg_04 Can have a special vocative marker?,Yes,Greek
+510,Voc_Sg_05 Must have a special vocative marker?,Yes,Greek
+523,latlong,"37.58,23.43",Greek

@@ -1,0 +1,173 @@
+ID,Name,Value,Language
+405,01_SV,Yes,Italian
+404,02_VS,Yes,Italian
+375,03_VO,Yes,Italian
+376,04_OV,No,Italian
+378,05_SVO,Yes,Italian
+379,06_SOV,No,Italian
+380,07_VSO,No,Italian
+381,08_VOS,No,Italian
+382,09_OSV,No,Italian
+383,10_OVS,No,Italian
+390,11_P NP,Yes,Italian
+391,12_NP P,No,Italian
+437,13_A N,Yes,Italian
+377,14_N A,Yes,Italian
+384,15_Num N,Yes,Italian
+385,16_N Num,No,Italian
+386,17_Dem N,Yes,Italian
+387,18_N Dem,No,Italian
+394,19_Poss N,No,Italian
+395,20_N Poss,Yes,Italian
+426,21_Pron.Poss N,Yes,Italian
+425,22_N Pron.Poss,No,Italian
+406,A 01_Attr.Adj Agr,Yes,Italian
+407,A 02_Pred.Adj Agr ,Yes,Italian
+396,A 03_Deg A,Yes,Italian
+397,A 04_A Deg,Yes,Italian
+388,C 01_C Clause,Yes,Italian
+389,C 02_Clause C,No,Italian
+392,C 03_Adv.Sub Clause,Yes,Italian
+393,C 04_Clause Adv.Sub,No,Italian
+408,Extra Examples,Yes,Italian
+524,ISO 639-3 Code,ita,Italian
+434,N2 01_Num N_(indef),Yes,Italian
+433,N2 02_N Num_(indef),No,Italian
+435,N2 03_Num N_(def),Yes,Italian
+436,N2 04_N Num_(def),No,Italian
+438,N2 F1_ Def NumN/N Num has a Def Art?,Yes,Italian
+439,N2 F2_Def NumN or NNum can have a DEM?,Yes,Italian
+440,N2 F3_Def NumN or NNum can be bare,No,Italian
+441,N2 F4a_Def NumN or NNum marks Pl but Indef Num N lacks Pl,No,Italian
+442,N2 F5_Def NumN or NNum differs from Indef NumN,No,Italian
+443,"N2 F6_Num has different form in Def and Indef (Num N, N Num) contexts",No,Italian
+444,"N2 F7_ N has different form in Def/Indef  (Num N, N Num) contexts",No,Italian
+398,N3 01_ Dem A N,Yes,Italian
+399,N3 02_Dem N A,Yes,Italian
+403,N3 03_ N A Dem,No,Italian
+402,N3 04_N Dem A,No,Italian
+400,N3 05_A Dem N,No,Italian
+401,N3 06_A N Dem,No,Italian
+427,N3 07_Dem Num N,Yes,Italian
+428,N3 08_Dem N Num,No,Italian
+429,N3 09_ N Num Dem,No,Italian
+430,N3 10_N Dem Num,No,Italian
+431,N3 11_Num Dem N,No,Italian
+432,N3 12_Num N Dem,No,Italian
+415,Neg 01_ Neg is Part (...) Verb,Yes,Italian
+416,Neg 02_Neg is V (...) Part,No,Italian
+420,Neg 03_Dist.Neg of  Class/Property,No,Italian
+419,Neg 04_Dist.Neg of identity,No,Italian
+421,Neg 05_Dist Neg of Location,No,Italian
+422,Neg 06_Dist.Neg of Existence,No,Italian
+417,Neg F1_Neg is NegAux,No,Italian
+418,Neg F2_ Neg is lexical V,No,Italian
+412,Neg F3_Neg is Tonal,No,Italian
+413,Neg F4_Neg is Tone and other modification,No,Italian
+414,Neg F5_Neg is Reduplication,No,Italian
+411,Neg F6_Neg is Infix,No,Italian
+467,O 01 1_Indef Mass_Can be bare,Yes,Italian
+469,O 01 2_Indef_Mass_Can have an article,Yes,Italian
+468,O 01 3_Indef_Mass_Must have an article,No,Italian
+470,O 02 1_Def_Mass _Can be bare,No,Italian
+472,O 02 2_Def_Mass _Can  have an article,No,Italian
+471,O 02 3_Def_Mass _Must have an article,Yes,Italian
+501,O 02 4.1_DefMass_Art-N,Yes,Italian
+502,O 02 4.2_DefMass_N-Art,No,Italian
+474,O 03 1_Indef_Sg_Can be bare,No,Italian
+473,O 03 2_Indef_Sg_Can have an article,No,Italian
+475,O 03 3_Indef_Sg_Must have an article,Yes,Italian
+476,O 03 4_Indef_Sg_Can have a plural reading,No,Italian
+477,O 04 1_Def_Sg_Can be bare,No,Italian
+479,O 04 2_Def_Sg_Can have an article,No,Italian
+478,O 04 3_Def_Sg_Must have an article,Yes,Italian
+503,O 04 4.1_DefSg_Art-N,Yes,Italian
+504,O 04 4.2_DefSg_N-Art,No,Italian
+480,O 05 1_Indef_Pl_Can be bare,Yes,Italian
+482,O 05 2_Indef_Pl_Can have an article,Yes,Italian
+481,O 05 3_Indef_Pl_Must have an article,No,Italian
+483,O 06 1_Def_Pl_Can be bare,No,Italian
+485,O 06 2_Def_Pl_Can have an article,No,Italian
+484,O 06 3_Def_Pl_Must have an article,Yes,Italian
+505,O 06 4.1_DefPl_Art-N,Yes,Italian
+506,O 06 4.2_DefPl_N-Art,No,Italian
+486,O 07 1_Unique Ref_Can be bare,No,Italian
+488,O 07 2_Unique Ref_Can have an article,No,Italian
+487,O 07 3_Unique Ref_Must have an article,Yes,Italian
+489,O 07 4_Unique Ref_Must have a 'special article',No,Italian
+490,O 08 1_PN_Can be bare,Yes,Italian
+492,O 08 2_PN_Can have an article,Yes,Italian
+491,O 08 3_PN_Must have an article,No,Italian
+526,O 08 4_PN_Must have a 'special article',No,Italian
+494,O 08 5.1_Art-PN,Yes,Italian
+495,O 08 5.1_PN-Art,No,Italian
+496,O 09 1_PN+A_Can be bare,Yes,Italian
+498,O 09 2_PN+A_Can have an article,Yes,Italian
+497,O 09 3_PN+A_Must have an article,No,Italian
+499,O 09 4.1_ Adj-PN,Yes,Italian
+500,O 09 5.2_ PN-Adj,Yes,Italian
+445,Q01_Initial polar Q-marker,No,Italian
+446,Q02_Final polar Q-marker,No,Italian
+447,Q03_Clause internal polar Q-marker,No,Italian
+448,Q04_Polar question by intonation,Yes,Italian
+449,Q05_Polar question by V-fronting,No,Italian
+450,Q06_Polar question by Aux-fronting,No,Italian
+451,Q07_Q-marker follows narrow focus,No,Italian
+452,Q08_Affirmative answer by particle,Yes,Italian
+453,Q09_Affirmative answer by V,No,Italian
+454,Q10_Affirmative answer by aux,No,Italian
+455,Q11_Affirmative answer by auxiliary and verb,No,Italian
+456,Q12_Affirmative answer by particle and verb,No,Italian
+457,Q13_Affirmative answer by predicative 'be' ,No,Italian
+458,Q14_Verb answer to indefinite subject question,No,Italian
+459,Q15_Particle-and-verb answer to indefinite subject question,No,Italian
+460,Q16_NEGA_Negative answer by special neg particle,Yes,Italian
+461,Q17_NEGA_Neg answer by bare sentential negation,No,Italian
+462,Q18_NEGA_Neg answer by sentential neg plus bare verb,No,Italian
+463,Q19_ANegQ_Truth-based confirmation,No,Italian
+464,Q20_ANegQ_Polarity-based confirmation,Yes,Italian
+465,Q21_ANegQ_Polarity-reversing particle,No,Italian
+466,Q22_ANegQ_Polarity-reversing answer by affirmative and special particle,No,Italian
+729,S01A1_ Existential constructions: locative PP obligatory?,No,Italian
+730,S01B1_Ex: Def Subj,Yes,Italian
+731,S01B2_Ex: PN Subj,Yes,Italian
+732,S01B3_Ex: Strong PRN Subj,Yes,Italian
+733,S01B4_Ex: Univ QP Subj,Yes,Italian
+728,S01_Existential constructions,Yes,Italian
+734,S02_1 Indef mass Ns (Subj) can be bare,Yes,Italian
+736,S02_2 Indef mass Ns (Subj) can have an article,Yes,Italian
+735,S02_3 Indef mass Ns (Subj) must have an article,No,Italian
+737,S03_1 Indef Sg count Ns (Subj) can be bare,No,Italian
+739,S03_2 Indef Sg count Ns (Subj) can have an article,No,Italian
+738,S03_3 Indef Sg count Ns (Subj) must have an article,Yes,Italian
+740,S04_1 Indef Pl Ns (Subj) can be bare,Yes,Italian
+742,S04_2 Indef Pl Ns (Subj) can have an article,Yes,Italian
+741,S04_3 Indef Pl Ns (Subj) must have an article,No,Italian
+838,S05_1 Def mass nouns (subject) can be bare,No,Italian
+839,S05_2 Def mass nouns (subject) can have an article,No,Italian
+840,S05_3 Def mass nouns (subject) must have an article,Yes,Italian
+841,S06_1 Def sg count nouns (subject) can be bare,No,Italian
+842,S06_2 Def sg count nouns (subject) can have an article,No,Italian
+843,S06_3 Def sg count nouns (subject) must have an article,Yes,Italian
+844,S07_1 Def pl nouns (subject) can be bare,No,Italian
+845,S07_2 Def pl nouns (subject) can have an article,No,Italian
+846,S07_3 Def pl nouns (subject) must have an article,Yes,Italian
+423,V2 01_Declarative Verb-Second,No,Italian
+424,V2 02_Interrogative Verb-Second,No,Italian
+374,V_Aux 01_Aux.Selection,Yes,Italian
+512,Voc_PN_01 Can be bare?,Yes,Italian
+514,Voc_PN_02 Can have an article,No,Italian
+513,Voc_PN_03 Must have an article?,No,Italian
+516,Voc_PN_04 Can have a special vocative marker?,Yes,Italian
+515,Voc_PN_05 Must have a special vocative marker?,No,Italian
+517,Voc_Pl_01 Can be bare?,Yes,Italian
+519,Voc_Pl_02 Can have an article?,No,Italian
+518,Voc_Pl_03 Must have an article?,No,Italian
+521,Voc_Pl_04 Can have a special vocative marker?,Yes,Italian
+520,Voc_Pl_05 Must have a special vocative marker?,No,Italian
+507,Voc_Sg_01 Can be bare?,Yes,Italian
+509,Voc_Sg_02 Can have an article?,No,Italian
+508,Voc_Sg_03 Must have an article?,No,Italian
+511,Voc_Sg_04 Can have a special vocative marker?,Yes,Italian
+510,Voc_Sg_05 Must have a special vocative marker?,No,Italian
+523,latlong,"41.9, 12.483333",Italian

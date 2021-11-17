@@ -1,0 +1,94 @@
+ID,Name,Value,Language
+405,01_SV,Yes,Afrikaans
+404,02_VS,No,Afrikaans
+375,03_VO,Yes,Afrikaans
+376,04_OV,Yes,Afrikaans
+378,05_SVO,Yes,Afrikaans
+379,06_SOV,Yes,Afrikaans
+380,07_VSO,No,Afrikaans
+381,08_VOS,No,Afrikaans
+382,09_OSV,No,Afrikaans
+383,10_OVS,No,Afrikaans
+390,11_P NP,Yes,Afrikaans
+391,12_NP P,Yes,Afrikaans
+437,13_A N,Yes,Afrikaans
+377,14_N A,No,Afrikaans
+384,15_Num N,Yes,Afrikaans
+385,16_N Num,No,Afrikaans
+386,17_Dem N,Yes,Afrikaans
+387,18_N Dem,No,Afrikaans
+394,19_Poss N,Yes,Afrikaans
+395,20_N Poss,Yes,Afrikaans
+426,21_Pron.Poss N,Yes,Afrikaans
+425,22_N Pron.Poss,No,Afrikaans
+406,A 01_Attr.Adj Agr,Yes,Afrikaans
+407,A 02_Pred.Adj Agr ,No,Afrikaans
+396,A 03_Deg A,Yes,Afrikaans
+397,A 04_A Deg,Yes,Afrikaans
+388,C 01_C Clause,Yes,Afrikaans
+389,C 02_Clause C,No,Afrikaans
+392,C 03_Adv.Sub Clause,Yes,Afrikaans
+393,C 04_Clause Adv.Sub,No,Afrikaans
+408,Extra Examples,NA,Afrikaans
+524,ISO 639-3 Code,afr,Afrikaans
+434,N2 01_Num N_(indef),Yes,Afrikaans
+433,N2 02_N Num_(indef),No,Afrikaans
+435,N2 03_Num N_(def),Yes,Afrikaans
+436,N2 04_N Num_(def),No,Afrikaans
+438,N2 F1_ Def NumN/N Num has a Def Art?,Yes,Afrikaans
+439,N2 F2_Def NumN or NNum can have a DEM?,Yes,Afrikaans
+440,N2 F3_Def NumN or NNum can be bare,No,Afrikaans
+441,N2 F4a_Def NumN or NNum marks Pl but Indef Num N lacks Pl,No,Afrikaans
+442,N2 F5_Def NumN or NNum differs from Indef NumN,No,Afrikaans
+443,"N2 F6_Num has different form in Def and Indef (Num N, N Num) contexts",No,Afrikaans
+444,"N2 F7_ N has different form in Def/Indef  (Num N, N Num) contexts",No,Afrikaans
+398,N3 01_ Dem A N,Yes,Afrikaans
+399,N3 02_Dem N A,No,Afrikaans
+403,N3 03_ N A Dem,No,Afrikaans
+402,N3 04_N Dem A,No,Afrikaans
+400,N3 05_A Dem N,No,Afrikaans
+401,N3 06_A N Dem,No,Afrikaans
+427,N3 07_Dem Num N,Yes,Afrikaans
+428,N3 08_Dem N Num,No,Afrikaans
+429,N3 09_ N Num Dem,No,Afrikaans
+430,N3 10_N Dem Num,No,Afrikaans
+431,N3 11_Num Dem N,No,Afrikaans
+432,N3 12_Num N Dem,No,Afrikaans
+415,Neg 01_ Neg is Part (...) Verb,No,Afrikaans
+416,Neg 02_Neg is V (...) Part,Yes,Afrikaans
+420,Neg 03_Dist.Neg of  Class/Property,No,Afrikaans
+419,Neg 04_Dist.Neg of identity,No,Afrikaans
+421,Neg 05_Dist Neg of Location,No,Afrikaans
+422,Neg 06_Dist.Neg of Existence,No,Afrikaans
+417,Neg F1_Neg is NegAux,No,Afrikaans
+418,Neg F2_ Neg is lexical V,No,Afrikaans
+412,Neg F3_Neg is Tonal,No,Afrikaans
+413,Neg F4_Neg is Tone and other modification,No,Afrikaans
+414,Neg F5_Neg is Reduplication,No,Afrikaans
+411,Neg F6_Neg is Infix,No,Afrikaans
+445,Q01_Initial polar Q-marker,No,Afrikaans
+446,Q02_Final polar Q-marker,No,Afrikaans
+447,Q03_Clause internal polar Q-marker,No,Afrikaans
+448,Q04_Polar question by intonation,No,Afrikaans
+449,Q05_Polar question by V-fronting,Yes,Afrikaans
+450,Q06_Polar question by Aux-fronting,Yes,Afrikaans
+451,Q07_Q-marker follows narrow focus,No,Afrikaans
+452,Q08_Affirmative answer by particle,Yes,Afrikaans
+453,Q09_Affirmative answer by V,No,Afrikaans
+454,Q10_Affirmative answer by aux,No,Afrikaans
+455,Q11_Affirmative answer by auxiliary and verb,No,Afrikaans
+456,Q12_Affirmative answer by particle and verb,No,Afrikaans
+457,Q13_Affirmative answer by predicative 'be' ,No,Afrikaans
+458,Q14_Verb answer to indefinite subject question,No,Afrikaans
+459,Q15_Particle-and-verb answer to indefinite subject question,No,Afrikaans
+460,Q16_NEGA_Negative answer by special neg particle,Yes,Afrikaans
+461,Q17_NEGA_Neg answer by bare sentential negation,No,Afrikaans
+462,Q18_NEGA_Neg answer by sentential neg plus bare verb,No,Afrikaans
+463,Q19_ANegQ_Truth-based confirmation,Yes,Afrikaans
+464,Q20_ANegQ_Polarity-based confirmation,Yes,Afrikaans
+465,Q21_ANegQ_Polarity-reversing particle,No,Afrikaans
+466,Q22_ANegQ_Polarity-reversing answer by affirmative and special particle,No,Afrikaans
+423,V2 01_Declarative Verb-Second,Yes,Afrikaans
+424,V2 02_Interrogative Verb-Second,Yes,Afrikaans
+374,V_Aux 01_Aux.Selection,No,Afrikaans
+523,latlong,"-29.00,24.00",Afrikaans

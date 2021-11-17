@@ -1,0 +1,149 @@
+ID,Name,Value,Language
+405,01_SV,Yes,Romanian
+404,02_VS,Yes,Romanian
+375,03_VO,Yes,Romanian
+376,04_OV,No,Romanian
+378,05_SVO,Yes,Romanian
+379,06_SOV,No,Romanian
+380,07_VSO,Yes,Romanian
+381,08_VOS,Yes,Romanian
+382,09_OSV,No,Romanian
+383,10_OVS,No,Romanian
+390,11_P NP,Yes,Romanian
+391,12_NP P,No,Romanian
+437,13_A N,Yes,Romanian
+377,14_N A,Yes,Romanian
+384,15_Num N,Yes,Romanian
+385,16_N Num,No,Romanian
+386,17_Dem N,Yes,Romanian
+387,18_N Dem,Yes,Romanian
+394,19_Poss N,No,Romanian
+395,20_N Poss,Yes,Romanian
+426,21_Pron.Poss N,No,Romanian
+425,22_N Pron.Poss,Yes,Romanian
+406,A 01_Attr.Adj Agr,Yes,Romanian
+407,A 02_Pred.Adj Agr ,Yes,Romanian
+396,A 03_Deg A,Yes,Romanian
+397,A 04_A Deg,No,Romanian
+388,C 01_C Clause,Yes,Romanian
+389,C 02_Clause C,No,Romanian
+392,C 03_Adv.Sub Clause,Yes,Romanian
+393,C 04_Clause Adv.Sub,No,Romanian
+408,Extra Examples,Yes,Romanian
+524,ISO 639-3 Code,ron,Romanian
+434,N2 01_Num N_(indef),Yes,Romanian
+433,N2 02_N Num_(indef),No,Romanian
+435,N2 03_Num N_(def),Yes,Romanian
+436,N2 04_N Num_(def),Yes,Romanian
+438,N2 F1_ Def NumN/N Num has a Def Art?,No,Romanian
+439,N2 F2_Def NumN or NNum can have a DEM?,Yes,Romanian
+440,N2 F3_Def NumN or NNum can be bare,No,Romanian
+441,N2 F4a_Def NumN or NNum marks Pl but Indef Num N lacks Pl,No,Romanian
+442,N2 F5_Def NumN or NNum differs from Indef NumN,Yes,Romanian
+443,"N2 F6_Num has different form in Def and Indef (Num N, N Num) contexts",No,Romanian
+444,"N2 F7_ N has different form in Def/Indef  (Num N, N Num) contexts",No,Romanian
+398,N3 01_ Dem A N,Yes,Romanian
+399,N3 02_Dem N A,Yes,Romanian
+403,N3 03_ N A Dem,No,Romanian
+402,N3 04_N Dem A,Yes,Romanian
+400,N3 05_A Dem N,No,Romanian
+401,N3 06_A N Dem,No,Romanian
+427,N3 07_Dem Num N,Yes,Romanian
+428,N3 08_Dem N Num,No,Romanian
+429,N3 09_ N Num Dem,No,Romanian
+430,N3 10_N Dem Num,Yes,Romanian
+431,N3 11_Num Dem N,No,Romanian
+432,N3 12_Num N Dem,No,Romanian
+415,Neg 01_ Neg is Part (...) Verb,Yes,Romanian
+416,Neg 02_Neg is V (...) Part,No,Romanian
+420,Neg 03_Dist.Neg of  Class/Property,No,Romanian
+419,Neg 04_Dist.Neg of identity,No,Romanian
+421,Neg 05_Dist Neg of Location,No,Romanian
+422,Neg 06_Dist.Neg of Existence,No,Romanian
+417,Neg F1_Neg is NegAux,No,Romanian
+418,Neg F2_ Neg is lexical V,No,Romanian
+412,Neg F3_Neg is Tonal,No,Romanian
+413,Neg F4_Neg is Tone and other modification,No,Romanian
+414,Neg F5_Neg is Reduplication,No,Romanian
+411,Neg F6_Neg is Infix,No,Romanian
+467,O 01 1_Indef Mass_Can be bare,Yes,Romanian
+469,O 01 2_Indef_Mass_Can have an article,Yes,Romanian
+468,O 01 3_Indef_Mass_Must have an article,No,Romanian
+470,O 02 1_Def_Mass _Can be bare,No,Romanian
+472,O 02 2_Def_Mass _Can  have an article,No,Romanian
+471,O 02 3_Def_Mass _Must have an article,Yes,Romanian
+501,O 02 4.1_DefMass_Art-N,No,Romanian
+502,O 02 4.2_DefMass_N-Art,Yes,Romanian
+474,O 03 1_Indef_Sg_Can be bare,Yes,Romanian
+473,O 03 2_Indef_Sg_Can have an article,Yes,Romanian
+475,O 03 3_Indef_Sg_Must have an article,No,Romanian
+476,O 03 4_Indef_Sg_Can have a plural reading,No,Romanian
+477,O 04 1_Def_Sg_Can be bare,No,Romanian
+479,O 04 2_Def_Sg_Can have an article,No,Romanian
+478,O 04 3_Def_Sg_Must have an article,Yes,Romanian
+503,O 04 4.1_DefSg_Art-N,No,Romanian
+504,O 04 4.2_DefSg_N-Art,Yes,Romanian
+480,O 05 1_Indef_Pl_Can be bare,Yes,Romanian
+482,O 05 2_Indef_Pl_Can have an article,Yes,Romanian
+481,O 05 3_Indef_Pl_Must have an article,No,Romanian
+483,O 06 1_Def_Pl_Can be bare,No,Romanian
+485,O 06 2_Def_Pl_Can have an article,No,Romanian
+484,O 06 3_Def_Pl_Must have an article,Yes,Romanian
+505,O 06 4.1_DefPl_Art-N,No,Romanian
+506,O 06 4.2_DefPl_N-Art,Yes,Romanian
+486,O 07 1_Unique Ref_Can be bare,No,Romanian
+488,O 07 2_Unique Ref_Can have an article,No,Romanian
+487,O 07 3_Unique Ref_Must have an article,Yes,Romanian
+489,O 07 4_Unique Ref_Must have a 'special article',No,Romanian
+490,O 08 1_PN_Can be bare,No,Romanian
+492,O 08 2_PN_Can have an article,Yes,Romanian
+491,O 08 3_PN_Must have an article,No,Romanian
+526,O 08 4_PN_Must have a 'special article',No,Romanian
+494,O 08 5.1_Art-PN,Yes,Romanian
+495,O 08 5.1_PN-Art,No,Romanian
+496,O 09 1_PN+A_Can be bare,No,Romanian
+498,O 09 2_PN+A_Can have an article,Yes,Romanian
+497,O 09 3_PN+A_Must have an article,Yes,Romanian
+499,O 09 4.1_ Adj-PN,Yes,Romanian
+500,O 09 5.2_ PN-Adj,Yes,Romanian
+445,Q01_Initial polar Q-marker,No,Romanian
+446,Q02_Final polar Q-marker,No,Romanian
+447,Q03_Clause internal polar Q-marker,No,Romanian
+448,Q04_Polar question by intonation,No,Romanian
+449,Q05_Polar question by V-fronting,Yes,Romanian
+450,Q06_Polar question by Aux-fronting,Yes,Romanian
+451,Q07_Q-marker follows narrow focus,No,Romanian
+452,Q08_Affirmative answer by particle,Yes,Romanian
+453,Q09_Affirmative answer by V,Yes,Romanian
+454,Q10_Affirmative answer by aux,Yes,Romanian
+455,Q11_Affirmative answer by auxiliary and verb,Yes,Romanian
+456,Q12_Affirmative answer by particle and verb,No,Romanian
+457,Q13_Affirmative answer by predicative 'be' ,No,Romanian
+458,Q14_Verb answer to indefinite subject question,Yes,Romanian
+459,Q15_Particle-and-verb answer to indefinite subject question,No,Romanian
+460,Q16_NEGA_Negative answer by special neg particle,Yes,Romanian
+461,Q17_NEGA_Neg answer by bare sentential negation,No,Romanian
+462,Q18_NEGA_Neg answer by sentential neg plus bare verb,Yes,Romanian
+463,Q19_ANegQ_Truth-based confirmation,Yes,Romanian
+464,Q20_ANegQ_Polarity-based confirmation,Yes,Romanian
+465,Q21_ANegQ_Polarity-reversing particle,Yes,Romanian
+466,Q22_ANegQ_Polarity-reversing answer by affirmative and special particle,Yes,Romanian
+423,V2 01_Declarative Verb-Second,No,Romanian
+424,V2 02_Interrogative Verb-Second,No,Romanian
+374,V_Aux 01_Aux.Selection,Yes,Romanian
+512,Voc_PN_01 Can be bare?,Yes,Romanian
+514,Voc_PN_02 Can have an article,Yes,Romanian
+513,Voc_PN_03 Must have an article?,No,Romanian
+516,Voc_PN_04 Can have a special vocative marker?,Yes,Romanian
+515,Voc_PN_05 Must have a special vocative marker?,No,Romanian
+517,Voc_Pl_01 Can be bare?,Yes,Romanian
+519,Voc_Pl_02 Can have an article?,Yes,Romanian
+518,Voc_Pl_03 Must have an article?,No,Romanian
+521,Voc_Pl_04 Can have a special vocative marker?,Yes,Romanian
+520,Voc_Pl_05 Must have a special vocative marker?,No,Romanian
+507,Voc_Sg_01 Can be bare?,Yes,Romanian
+509,Voc_Sg_02 Can have an article?,Yes,Romanian
+508,Voc_Sg_03 Must have an article?,No,Romanian
+511,Voc_Sg_04 Can have a special vocative marker?,Yes,Romanian
+510,Voc_Sg_05 Must have a special vocative marker?,Yes,Romanian
+523,latlong,"44.543505, 26.103515",Romanian

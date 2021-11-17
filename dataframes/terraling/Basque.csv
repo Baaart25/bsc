@@ -1,0 +1,61 @@
+ID,Name,Value,Language
+405,01_SV,Yes,Basque
+404,02_VS,No,Basque
+375,03_VO,No,Basque
+376,04_OV,Yes,Basque
+378,05_SVO,No,Basque
+379,06_SOV,Yes,Basque
+380,07_VSO,No,Basque
+381,08_VOS,No,Basque
+382,09_OSV,No,Basque
+383,10_OVS,No,Basque
+390,11_P NP,No,Basque
+391,12_NP P,Yes,Basque
+437,13_A N,Yes,Basque
+377,14_N A,Yes,Basque
+384,15_Num N,Yes,Basque
+385,16_N Num,Yes,Basque
+386,17_Dem N,Yes,Basque
+387,18_N Dem,Yes,Basque
+394,19_Poss N,Yes,Basque
+406,A 01_Attr.Adj Agr,No,Basque
+407,A 02_Pred.Adj Agr ,Yes,Basque
+396,A 03_Deg A,Yes,Basque
+397,A 04_A Deg,Yes,Basque
+388,C 01_C Clause,NA,Basque
+389,C 02_Clause C,NA,Basque
+392,C 03_Adv.Sub Clause,Yes,Basque
+393,C 04_Clause Adv.Sub,Yes,Basque
+408,Extra Examples,Yes,Basque
+524,ISO 639-3 Code,eus,Basque
+398,N3 01_ Dem A N,Yes,Basque
+399,N3 02_Dem N A,Yes,Basque
+403,N3 03_ N A Dem,Yes,Basque
+402,N3 04_N Dem A,No,Basque
+400,N3 05_A Dem N,No,Basque
+401,N3 06_A N Dem,Yes,Basque
+467,O 01 1_Indef Mass_Can be bare,No,Basque
+469,O 01 2_Indef_Mass_Can have an article,No,Basque
+468,O 01 3_Indef_Mass_Must have an article,Yes,Basque
+470,O 02 1_Def_Mass _Can be bare,No,Basque
+472,O 02 2_Def_Mass _Can  have an article,No,Basque
+471,O 02 3_Def_Mass _Must have an article,Yes,Basque
+501,O 02 4.1_DefMass_Art-N,No,Basque
+502,O 02 4.2_DefMass_N-Art,Yes,Basque
+474,O 03 1_Indef_Sg_Can be bare,No,Basque
+473,O 03 2_Indef_Sg_Can have an article,No,Basque
+475,O 03 3_Indef_Sg_Must have an article,Yes,Basque
+477,O 04 1_Def_Sg_Can be bare,No,Basque
+479,O 04 2_Def_Sg_Can have an article,No,Basque
+478,O 04 3_Def_Sg_Must have an article,Yes,Basque
+503,O 04 4.1_DefSg_Art-N,No,Basque
+504,O 04 4.2_DefSg_N-Art,Yes,Basque
+480,O 05 1_Indef_Pl_Can be bare,No,Basque
+482,O 05 2_Indef_Pl_Can have an article,No,Basque
+481,O 05 3_Indef_Pl_Must have an article,Yes,Basque
+483,O 06 1_Def_Pl_Can be bare,No,Basque
+485,O 06 2_Def_Pl_Can have an article,No,Basque
+484,O 06 3_Def_Pl_Must have an article,Yes,Basque
+506,O 06 4.2_DefPl_N-Art,Yes,Basque
+374,V_Aux 01_Aux.Selection,Yes,Basque
+523,latlong,"42.7,-2",Basque

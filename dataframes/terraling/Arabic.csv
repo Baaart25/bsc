@@ -1,0 +1,94 @@
+ID,Name,Value,Language
+405,01_SV,Yes,Arabic
+404,02_VS,Yes,Arabic
+375,03_VO,Yes,Arabic
+376,04_OV,No,Arabic
+378,05_SVO,Yes,Arabic
+379,06_SOV,No,Arabic
+380,07_VSO,Yes,Arabic
+381,08_VOS,No,Arabic
+382,09_OSV,No,Arabic
+383,10_OVS,Yes,Arabic
+390,11_P NP,Yes,Arabic
+391,12_NP P,No,Arabic
+437,13_A N,No,Arabic
+377,14_N A,Yes,Arabic
+384,15_Num N,Yes,Arabic
+385,16_N Num,Yes,Arabic
+386,17_Dem N,Yes,Arabic
+387,18_N Dem,Yes,Arabic
+394,19_Poss N,No,Arabic
+395,20_N Poss,Yes,Arabic
+426,21_Pron.Poss N,No,Arabic
+425,22_N Pron.Poss,Yes,Arabic
+406,A 01_Attr.Adj Agr,Yes,Arabic
+407,A 02_Pred.Adj Agr ,Yes,Arabic
+396,A 03_Deg A,Yes,Arabic
+397,A 04_A Deg,Yes,Arabic
+388,C 01_C Clause,Yes,Arabic
+389,C 02_Clause C,NA,Arabic
+392,C 03_Adv.Sub Clause,Yes,Arabic
+393,C 04_Clause Adv.Sub,No,Arabic
+408,Extra Examples,No,Arabic
+524,ISO 639-3 Code,afb,Arabic
+434,N2 01_Num N_(indef),Yes,Arabic
+433,N2 02_N Num_(indef),No,Arabic
+435,N2 03_Num N_(def),No,Arabic
+436,N2 04_N Num_(def),Yes,Arabic
+438,N2 F1_ Def NumN/N Num has a Def Art?,Yes,Arabic
+439,N2 F2_Def NumN or NNum can have a DEM?,Yes,Arabic
+440,N2 F3_Def NumN or NNum can be bare,No,Arabic
+441,N2 F4a_Def NumN or NNum marks Pl but Indef Num N lacks Pl,No,Arabic
+442,N2 F5_Def NumN or NNum differs from Indef NumN,No,Arabic
+443,"N2 F6_Num has different form in Def and Indef (Num N, N Num) contexts",Yes,Arabic
+444,"N2 F7_ N has different form in Def/Indef  (Num N, N Num) contexts",No,Arabic
+398,N3 01_ Dem A N,No,Arabic
+399,N3 02_Dem N A,Yes,Arabic
+403,N3 03_ N A Dem,Yes,Arabic
+402,N3 04_N Dem A,Yes,Arabic
+400,N3 05_A Dem N,No,Arabic
+401,N3 06_A N Dem,No,Arabic
+427,N3 07_Dem Num N,Yes,Arabic
+428,N3 08_Dem N Num,Yes,Arabic
+429,N3 09_ N Num Dem,Yes,Arabic
+430,N3 10_N Dem Num,No,Arabic
+431,N3 11_Num Dem N,No,Arabic
+432,N3 12_Num N Dem,Yes,Arabic
+415,Neg 01_ Neg is Part (...) Verb,Yes,Arabic
+416,Neg 02_Neg is V (...) Part,No,Arabic
+420,Neg 03_Dist.Neg of  Class/Property,Yes,Arabic
+419,Neg 04_Dist.Neg of identity,Yes,Arabic
+421,Neg 05_Dist Neg of Location,Yes,Arabic
+422,Neg 06_Dist.Neg of Existence,Yes,Arabic
+417,Neg F1_Neg is NegAux,No,Arabic
+418,Neg F2_ Neg is lexical V,No,Arabic
+412,Neg F3_Neg is Tonal,No,Arabic
+413,Neg F4_Neg is Tone and other modification,NA,Arabic
+414,Neg F5_Neg is Reduplication,No,Arabic
+411,Neg F6_Neg is Infix,No,Arabic
+445,Q01_Initial polar Q-marker,No,Arabic
+446,Q02_Final polar Q-marker,No,Arabic
+447,Q03_Clause internal polar Q-marker,No,Arabic
+448,Q04_Polar question by intonation,Yes,Arabic
+449,Q05_Polar question by V-fronting,No,Arabic
+450,Q06_Polar question by Aux-fronting,No,Arabic
+451,Q07_Q-marker follows narrow focus,No,Arabic
+452,Q08_Affirmative answer by particle,Yes,Arabic
+453,Q09_Affirmative answer by V,Yes,Arabic
+454,Q10_Affirmative answer by aux,No,Arabic
+455,Q11_Affirmative answer by auxiliary and verb,No,Arabic
+456,Q12_Affirmative answer by particle and verb,Yes,Arabic
+457,Q13_Affirmative answer by predicative 'be' ,No,Arabic
+458,Q14_Verb answer to indefinite subject question,No,Arabic
+459,Q15_Particle-and-verb answer to indefinite subject question,Yes,Arabic
+460,Q16_NEGA_Negative answer by special neg particle,Yes,Arabic
+461,Q17_NEGA_Neg answer by bare sentential negation,No,Arabic
+462,Q18_NEGA_Neg answer by sentential neg plus bare verb,No,Arabic
+463,Q19_ANegQ_Truth-based confirmation,No,Arabic
+464,Q20_ANegQ_Polarity-based confirmation,Yes,Arabic
+465,Q21_ANegQ_Polarity-reversing particle,No,Arabic
+466,Q22_ANegQ_Polarity-reversing answer by affirmative and special particle,No,Arabic
+423,V2 01_Declarative Verb-Second,No,Arabic
+424,V2 02_Interrogative Verb-Second,No,Arabic
+374,V_Aux 01_Aux.Selection,No,Arabic
+523,latlong,"24.2075,55.744722",Arabic

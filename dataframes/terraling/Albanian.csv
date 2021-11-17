@@ -1,0 +1,95 @@
+ID,Name,Value,Language
+405,01_SV,Yes,Albanian
+404,02_VS,Yes,Albanian
+375,03_VO,Yes,Albanian
+376,04_OV,No,Albanian
+378,05_SVO,Yes,Albanian
+379,06_SOV,No,Albanian
+380,07_VSO,Yes,Albanian
+381,08_VOS,Yes,Albanian
+382,09_OSV,No,Albanian
+383,10_OVS,No,Albanian
+390,11_P NP,Yes,Albanian
+391,12_NP P,Yes,Albanian
+437,13_A N,No,Albanian
+377,14_N A,Yes,Albanian
+384,15_Num N,Yes,Albanian
+385,16_N Num,No,Albanian
+386,17_Dem N,Yes,Albanian
+387,18_N Dem,No,Albanian
+394,19_Poss N,No,Albanian
+395,20_N Poss,Yes,Albanian
+426,21_Pron.Poss N,No,Albanian
+425,22_N Pron.Poss,Yes,Albanian
+406,A 01_Attr.Adj Agr,Yes,Albanian
+407,A 02_Pred.Adj Agr ,Yes,Albanian
+396,A 03_Deg A,Yes,Albanian
+397,A 04_A Deg,Yes,Albanian
+388,C 01_C Clause,Yes,Albanian
+389,C 02_Clause C,No,Albanian
+392,C 03_Adv.Sub Clause,Yes,Albanian
+393,C 04_Clause Adv.Sub,No,Albanian
+408,Extra Examples,No,Albanian
+524,ISO 639-3 Code,alb,Albanian
+434,N2 01_Num N_(indef),Yes,Albanian
+433,N2 02_N Num_(indef),No,Albanian
+435,N2 03_Num N_(def),Yes,Albanian
+436,N2 04_N Num_(def),No,Albanian
+438,N2 F1_ Def NumN/N Num has a Def Art?,No,Albanian
+439,N2 F2_Def NumN or NNum can have a DEM?,Yes,Albanian
+440,N2 F3_Def NumN or NNum can be bare,Yes,Albanian
+441,N2 F4a_Def NumN or NNum marks Pl but Indef Num N lacks Pl,No,Albanian
+442,N2 F5_Def NumN or NNum differs from Indef NumN,No,Albanian
+443,"N2 F6_Num has different form in Def and Indef (Num N, N Num) contexts",No,Albanian
+444,"N2 F7_ N has different form in Def/Indef  (Num N, N Num) contexts",No,Albanian
+398,N3 01_ Dem A N,Yes,Albanian
+399,N3 02_Dem N A,Yes,Albanian
+403,N3 03_ N A Dem,No,Albanian
+402,N3 04_N Dem A,No,Albanian
+400,N3 05_A Dem N,No,Albanian
+401,N3 06_A N Dem,No,Albanian
+427,N3 07_Dem Num N,Yes,Albanian
+428,N3 08_Dem N Num,No,Albanian
+429,N3 09_ N Num Dem,No,Albanian
+430,N3 10_N Dem Num,No,Albanian
+431,N3 11_Num Dem N,Yes,Albanian
+432,N3 12_Num N Dem,No,Albanian
+415,Neg 01_ Neg is Part (...) Verb,Yes,Albanian
+416,Neg 02_Neg is V (...) Part,No,Albanian
+420,Neg 03_Dist.Neg of  Class/Property,No,Albanian
+419,Neg 04_Dist.Neg of identity,No,Albanian
+421,Neg 05_Dist Neg of Location,No,Albanian
+422,Neg 06_Dist.Neg of Existence,No,Albanian
+417,Neg F1_Neg is NegAux,No,Albanian
+418,Neg F2_ Neg is lexical V,No,Albanian
+412,Neg F3_Neg is Tonal,No,Albanian
+413,Neg F4_Neg is Tone and other modification,No,Albanian
+414,Neg F5_Neg is Reduplication,No,Albanian
+411,Neg F6_Neg is Infix,No,Albanian
+467,O 01 1_Indef Mass_Can be bare,Yes,Albanian
+469,O 01 2_Indef_Mass_Can have an article,No,Albanian
+468,O 01 3_Indef_Mass_Must have an article,No,Albanian
+445,Q01_Initial polar Q-marker,Yes,Albanian
+446,Q02_Final polar Q-marker,No,Albanian
+447,Q03_Clause internal polar Q-marker,No,Albanian
+448,Q04_Polar question by intonation,Yes,Albanian
+449,Q05_Polar question by V-fronting,Yes,Albanian
+452,Q08_Affirmative answer by particle,Yes,Albanian
+453,Q09_Affirmative answer by V,Yes,Albanian
+454,Q10_Affirmative answer by aux,No,Albanian
+455,Q11_Affirmative answer by auxiliary and verb,Yes,Albanian
+456,Q12_Affirmative answer by particle and verb,Yes,Albanian
+457,Q13_Affirmative answer by predicative 'be' ,No,Albanian
+458,Q14_Verb answer to indefinite subject question,Yes,Albanian
+459,Q15_Particle-and-verb answer to indefinite subject question,Yes,Albanian
+460,Q16_NEGA_Negative answer by special neg particle,Yes,Albanian
+461,Q17_NEGA_Neg answer by bare sentential negation,No,Albanian
+462,Q18_NEGA_Neg answer by sentential neg plus bare verb,Yes,Albanian
+463,Q19_ANegQ_Truth-based confirmation,NA,Albanian
+464,Q20_ANegQ_Polarity-based confirmation,Yes,Albanian
+465,Q21_ANegQ_Polarity-reversing particle,Yes,Albanian
+466,Q22_ANegQ_Polarity-reversing answer by affirmative and special particle,Yes,Albanian
+423,V2 01_Declarative Verb-Second,No,Albanian
+424,V2 02_Interrogative Verb-Second,No,Albanian
+374,V_Aux 01_Aux.Selection,Yes,Albanian
+523,latlong,"41.326,19.816",Albanian

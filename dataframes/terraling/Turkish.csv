@@ -1,0 +1,148 @@
+ID,Name,Value,Language
+405,01_SV,Yes,Turkish
+404,02_VS,Yes,Turkish
+375,03_VO,Yes,Turkish
+376,04_OV,Yes,Turkish
+378,05_SVO,Yes,Turkish
+379,06_SOV,Yes,Turkish
+380,07_VSO,Yes,Turkish
+381,08_VOS,Yes,Turkish
+382,09_OSV,Yes,Turkish
+383,10_OVS,Yes,Turkish
+390,11_P NP,No,Turkish
+391,12_NP P,Yes,Turkish
+437,13_A N,Yes,Turkish
+377,14_N A,No,Turkish
+384,15_Num N,Yes,Turkish
+385,16_N Num,No,Turkish
+386,17_Dem N,Yes,Turkish
+387,18_N Dem,No,Turkish
+394,19_Poss N,Yes,Turkish
+395,20_N Poss,No,Turkish
+426,21_Pron.Poss N,Yes,Turkish
+425,22_N Pron.Poss,Yes,Turkish
+406,A 01_Attr.Adj Agr,No,Turkish
+407,A 02_Pred.Adj Agr ,Yes,Turkish
+396,A 03_Deg A,Yes,Turkish
+397,A 04_A Deg,No,Turkish
+388,C 01_C Clause,NA,Turkish
+389,C 02_Clause C,NA,Turkish
+392,C 03_Adv.Sub Clause,No,Turkish
+393,C 04_Clause Adv.Sub,Yes,Turkish
+408,Extra Examples,No,Turkish
+524,ISO 639-3 Code,tur,Turkish
+434,N2 01_Num N_(indef),Yes,Turkish
+433,N2 02_N Num_(indef),No,Turkish
+435,N2 03_Num N_(def),Yes,Turkish
+436,N2 04_N Num_(def),No,Turkish
+438,N2 F1_ Def NumN/N Num has a Def Art?,No,Turkish
+439,N2 F2_Def NumN or NNum can have a DEM?,Yes,Turkish
+440,N2 F3_Def NumN or NNum can be bare,No,Turkish
+441,N2 F4a_Def NumN or NNum marks Pl but Indef Num N lacks Pl,Yes,Turkish
+442,N2 F5_Def NumN or NNum differs from Indef NumN,Yes,Turkish
+443,"N2 F6_Num has different form in Def and Indef (Num N, N Num) contexts",No,Turkish
+444,"N2 F7_ N has different form in Def/Indef  (Num N, N Num) contexts",No,Turkish
+398,N3 01_ Dem A N,Yes,Turkish
+399,N3 02_Dem N A,No,Turkish
+403,N3 03_ N A Dem,No,Turkish
+402,N3 04_N Dem A,No,Turkish
+400,N3 05_A Dem N,No,Turkish
+401,N3 06_A N Dem,No,Turkish
+427,N3 07_Dem Num N,Yes,Turkish
+428,N3 08_Dem N Num,No,Turkish
+429,N3 09_ N Num Dem,No,Turkish
+430,N3 10_N Dem Num,No,Turkish
+431,N3 11_Num Dem N,No,Turkish
+432,N3 12_Num N Dem,No,Turkish
+415,Neg 01_ Neg is Part (...) Verb,No,Turkish
+416,Neg 02_Neg is V (...) Part,Yes,Turkish
+420,Neg 03_Dist.Neg of  Class/Property,Yes,Turkish
+419,Neg 04_Dist.Neg of identity,Yes,Turkish
+421,Neg 05_Dist Neg of Location,Yes,Turkish
+422,Neg 06_Dist.Neg of Existence,Yes,Turkish
+417,Neg F1_Neg is NegAux,No,Turkish
+418,Neg F2_ Neg is lexical V,No,Turkish
+412,Neg F3_Neg is Tonal,No,Turkish
+413,Neg F4_Neg is Tone and other modification,No,Turkish
+414,Neg F5_Neg is Reduplication,No,Turkish
+411,Neg F6_Neg is Infix,No,Turkish
+467,O 01 1_Indef Mass_Can be bare,Yes,Turkish
+469,O 01 2_Indef_Mass_Can have an article,No,Turkish
+468,O 01 3_Indef_Mass_Must have an article,No,Turkish
+470,O 02 1_Def_Mass _Can be bare,No,Turkish
+472,O 02 2_Def_Mass _Can  have an article,No,Turkish
+471,O 02 3_Def_Mass _Must have an article,Yes,Turkish
+501,O 02 4.1_DefMass_Art-N,No,Turkish
+502,O 02 4.2_DefMass_N-Art,Yes,Turkish
+474,O 03 1_Indef_Sg_Can be bare,Yes,Turkish
+473,O 03 2_Indef_Sg_Can have an article,No,Turkish
+475,O 03 3_Indef_Sg_Must have an article,No,Turkish
+476,O 03 4_Indef_Sg_Can have a plural reading,Yes,Turkish
+477,O 04 1_Def_Sg_Can be bare,No,Turkish
+479,O 04 2_Def_Sg_Can have an article,No,Turkish
+478,O 04 3_Def_Sg_Must have an article,Yes,Turkish
+503,O 04 4.1_DefSg_Art-N,No,Turkish
+504,O 04 4.2_DefSg_N-Art,Yes,Turkish
+480,O 05 1_Indef_Pl_Can be bare,No,Turkish
+482,O 05 2_Indef_Pl_Can have an article,No,Turkish
+481,O 05 3_Indef_Pl_Must have an article,No,Turkish
+483,O 06 1_Def_Pl_Can be bare,No,Turkish
+485,O 06 2_Def_Pl_Can have an article,No,Turkish
+484,O 06 3_Def_Pl_Must have an article,Yes,Turkish
+505,O 06 4.1_DefPl_Art-N,No,Turkish
+506,O 06 4.2_DefPl_N-Art,Yes,Turkish
+486,O 07 1_Unique Ref_Can be bare,No,Turkish
+488,O 07 2_Unique Ref_Can have an article,No,Turkish
+487,O 07 3_Unique Ref_Must have an article,Yes,Turkish
+489,O 07 4_Unique Ref_Must have a 'special article',No,Turkish
+490,O 08 1_PN_Can be bare,No,Turkish
+492,O 08 2_PN_Can have an article,No,Turkish
+491,O 08 3_PN_Must have an article,Yes,Turkish
+526,O 08 4_PN_Must have a 'special article',No,Turkish
+494,O 08 5.1_Art-PN,No,Turkish
+495,O 08 5.1_PN-Art,Yes,Turkish
+496,O 09 1_PN+A_Can be bare,No,Turkish
+498,O 09 2_PN+A_Can have an article,No,Turkish
+497,O 09 3_PN+A_Must have an article,Yes,Turkish
+499,O 09 4.1_ Adj-PN,Yes,Turkish
+500,O 09 5.2_ PN-Adj,No,Turkish
+445,Q01_Initial polar Q-marker,No,Turkish
+446,Q02_Final polar Q-marker,No,Turkish
+447,Q03_Clause internal polar Q-marker,Yes,Turkish
+448,Q04_Polar question by intonation,Yes,Turkish
+449,Q05_Polar question by V-fronting,No,Turkish
+450,Q06_Polar question by Aux-fronting,No,Turkish
+451,Q07_Q-marker follows narrow focus,Yes,Turkish
+452,Q08_Affirmative answer by particle,Yes,Turkish
+453,Q09_Affirmative answer by V,Yes,Turkish
+454,Q10_Affirmative answer by aux,No,Turkish
+455,Q11_Affirmative answer by auxiliary and verb,No,Turkish
+456,Q12_Affirmative answer by particle and verb,Yes,Turkish
+457,Q13_Affirmative answer by predicative 'be' ,No,Turkish
+458,Q14_Verb answer to indefinite subject question,Yes,Turkish
+459,Q15_Particle-and-verb answer to indefinite subject question,Yes,Turkish
+460,Q16_NEGA_Negative answer by special neg particle,Yes,Turkish
+461,Q17_NEGA_Neg answer by bare sentential negation,No,Turkish
+462,Q18_NEGA_Neg answer by sentential neg plus bare verb,Yes,Turkish
+464,Q20_ANegQ_Polarity-based confirmation,Yes,Turkish
+465,Q21_ANegQ_Polarity-reversing particle,No,Turkish
+466,Q22_ANegQ_Polarity-reversing answer by affirmative and special particle,No,Turkish
+423,V2 01_Declarative Verb-Second,No,Turkish
+424,V2 02_Interrogative Verb-Second,No,Turkish
+374,V_Aux 01_Aux.Selection,No,Turkish
+512,Voc_PN_01 Can be bare?,Yes,Turkish
+514,Voc_PN_02 Can have an article,No,Turkish
+513,Voc_PN_03 Must have an article?,No,Turkish
+516,Voc_PN_04 Can have a special vocative marker?,No,Turkish
+515,Voc_PN_05 Must have a special vocative marker?,No,Turkish
+517,Voc_Pl_01 Can be bare?,Yes,Turkish
+519,Voc_Pl_02 Can have an article?,No,Turkish
+518,Voc_Pl_03 Must have an article?,No,Turkish
+521,Voc_Pl_04 Can have a special vocative marker?,No,Turkish
+520,Voc_Pl_05 Must have a special vocative marker?,No,Turkish
+507,Voc_Sg_01 Can be bare?,Yes,Turkish
+509,Voc_Sg_02 Can have an article?,No,Turkish
+508,Voc_Sg_03 Must have an article?,No,Turkish
+511,Voc_Sg_04 Can have a special vocative marker?,No,Turkish
+510,Voc_Sg_05 Must have a special vocative marker?,No,Turkish
+523,latlong,"38.963745,35.243322",Turkish

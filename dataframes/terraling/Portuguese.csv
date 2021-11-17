@@ -1,0 +1,148 @@
+ID,Name,Value,Language
+405,01_SV,Yes,Portuguese
+404,02_VS,Yes,Portuguese
+375,03_VO,Yes,Portuguese
+376,04_OV,No,Portuguese
+378,05_SVO,Yes,Portuguese
+379,06_SOV,No,Portuguese
+380,07_VSO,No,Portuguese
+381,08_VOS,No,Portuguese
+382,09_OSV,No,Portuguese
+383,10_OVS,No,Portuguese
+390,11_P NP,Yes,Portuguese
+391,12_NP P,No,Portuguese
+437,13_A N,Yes,Portuguese
+377,14_N A,Yes,Portuguese
+384,15_Num N,Yes,Portuguese
+385,16_N Num,No,Portuguese
+386,17_Dem N,Yes,Portuguese
+387,18_N Dem,No,Portuguese
+394,19_Poss N,No,Portuguese
+395,20_N Poss,Yes,Portuguese
+426,21_Pron.Poss N,Yes,Portuguese
+425,22_N Pron.Poss,Yes,Portuguese
+406,A 01_Attr.Adj Agr,Yes,Portuguese
+407,A 02_Pred.Adj Agr ,Yes,Portuguese
+396,A 03_Deg A,Yes,Portuguese
+397,A 04_A Deg,Yes,Portuguese
+388,C 01_C Clause,Yes,Portuguese
+389,C 02_Clause C,No,Portuguese
+392,C 03_Adv.Sub Clause,Yes,Portuguese
+393,C 04_Clause Adv.Sub,No,Portuguese
+408,Extra Examples,No,Portuguese
+524,ISO 639-3 Code,por,Portuguese
+434,N2 01_Num N_(indef),Yes,Portuguese
+433,N2 02_N Num_(indef),No,Portuguese
+435,N2 03_Num N_(def),Yes,Portuguese
+436,N2 04_N Num_(def),No,Portuguese
+438,N2 F1_ Def NumN/N Num has a Def Art?,Yes,Portuguese
+439,N2 F2_Def NumN or NNum can have a DEM?,Yes,Portuguese
+440,N2 F3_Def NumN or NNum can be bare,No,Portuguese
+441,N2 F4a_Def NumN or NNum marks Pl but Indef Num N lacks Pl,No,Portuguese
+442,N2 F5_Def NumN or NNum differs from Indef NumN,No,Portuguese
+443,"N2 F6_Num has different form in Def and Indef (Num N, N Num) contexts",No,Portuguese
+444,"N2 F7_ N has different form in Def/Indef  (Num N, N Num) contexts",No,Portuguese
+398,N3 01_ Dem A N,Yes,Portuguese
+399,N3 02_Dem N A,Yes,Portuguese
+403,N3 03_ N A Dem,No,Portuguese
+402,N3 04_N Dem A,No,Portuguese
+400,N3 05_A Dem N,No,Portuguese
+401,N3 06_A N Dem,No,Portuguese
+427,N3 07_Dem Num N,Yes,Portuguese
+428,N3 08_Dem N Num,No,Portuguese
+429,N3 09_ N Num Dem,No,Portuguese
+430,N3 10_N Dem Num,No,Portuguese
+431,N3 11_Num Dem N,No,Portuguese
+432,N3 12_Num N Dem,No,Portuguese
+415,Neg 01_ Neg is Part (...) Verb,Yes,Portuguese
+416,Neg 02_Neg is V (...) Part,No,Portuguese
+420,Neg 03_Dist.Neg of  Class/Property,No,Portuguese
+419,Neg 04_Dist.Neg of identity,No,Portuguese
+421,Neg 05_Dist Neg of Location,No,Portuguese
+422,Neg 06_Dist.Neg of Existence,No,Portuguese
+417,Neg F1_Neg is NegAux,No,Portuguese
+418,Neg F2_ Neg is lexical V,No,Portuguese
+412,Neg F3_Neg is Tonal,No,Portuguese
+413,Neg F4_Neg is Tone and other modification,No,Portuguese
+414,Neg F5_Neg is Reduplication,No,Portuguese
+411,Neg F6_Neg is Infix,No,Portuguese
+467,O 01 1_Indef Mass_Can be bare,Yes,Portuguese
+469,O 01 2_Indef_Mass_Can have an article,No,Portuguese
+468,O 01 3_Indef_Mass_Must have an article,No,Portuguese
+470,O 02 1_Def_Mass _Can be bare,No,Portuguese
+472,O 02 2_Def_Mass _Can  have an article,No,Portuguese
+471,O 02 3_Def_Mass _Must have an article,Yes,Portuguese
+501,O 02 4.1_DefMass_Art-N,Yes,Portuguese
+502,O 02 4.2_DefMass_N-Art,No,Portuguese
+474,O 03 1_Indef_Sg_Can be bare,No,Portuguese
+473,O 03 2_Indef_Sg_Can have an article,No,Portuguese
+475,O 03 3_Indef_Sg_Must have an article,Yes,Portuguese
+476,O 03 4_Indef_Sg_Can have a plural reading,No,Portuguese
+477,O 04 1_Def_Sg_Can be bare,No,Portuguese
+479,O 04 2_Def_Sg_Can have an article,No,Portuguese
+478,O 04 3_Def_Sg_Must have an article,Yes,Portuguese
+503,O 04 4.1_DefSg_Art-N,Yes,Portuguese
+504,O 04 4.2_DefSg_N-Art,No,Portuguese
+480,O 05 1_Indef_Pl_Can be bare,Yes,Portuguese
+482,O 05 2_Indef_Pl_Can have an article,Yes,Portuguese
+481,O 05 3_Indef_Pl_Must have an article,No,Portuguese
+483,O 06 1_Def_Pl_Can be bare,No,Portuguese
+485,O 06 2_Def_Pl_Can have an article,No,Portuguese
+484,O 06 3_Def_Pl_Must have an article,Yes,Portuguese
+505,O 06 4.1_DefPl_Art-N,Yes,Portuguese
+506,O 06 4.2_DefPl_N-Art,No,Portuguese
+486,O 07 1_Unique Ref_Can be bare,No,Portuguese
+487,O 07 3_Unique Ref_Must have an article,Yes,Portuguese
+489,O 07 4_Unique Ref_Must have a 'special article',No,Portuguese
+490,O 08 1_PN_Can be bare,Yes,Portuguese
+492,O 08 2_PN_Can have an article,Yes,Portuguese
+491,O 08 3_PN_Must have an article,No,Portuguese
+526,O 08 4_PN_Must have a 'special article',No,Portuguese
+494,O 08 5.1_Art-PN,Yes,Portuguese
+495,O 08 5.1_PN-Art,No,Portuguese
+496,O 09 1_PN+A_Can be bare,Yes,Portuguese
+498,O 09 2_PN+A_Can have an article,Yes,Portuguese
+497,O 09 3_PN+A_Must have an article,No,Portuguese
+499,O 09 4.1_ Adj-PN,Yes,Portuguese
+500,O 09 5.2_ PN-Adj,Yes,Portuguese
+445,Q01_Initial polar Q-marker,No,Portuguese
+446,Q02_Final polar Q-marker,No,Portuguese
+447,Q03_Clause internal polar Q-marker,No,Portuguese
+448,Q04_Polar question by intonation,Yes,Portuguese
+449,Q05_Polar question by V-fronting,No,Portuguese
+450,Q06_Polar question by Aux-fronting,No,Portuguese
+451,Q07_Q-marker follows narrow focus,No,Portuguese
+452,Q08_Affirmative answer by particle,Yes,Portuguese
+453,Q09_Affirmative answer by V,Yes,Portuguese
+454,Q10_Affirmative answer by aux,Yes,Portuguese
+455,Q11_Affirmative answer by auxiliary and verb,No,Portuguese
+456,Q12_Affirmative answer by particle and verb,No,Portuguese
+457,Q13_Affirmative answer by predicative 'be' ,No,Portuguese
+458,Q14_Verb answer to indefinite subject question,Yes,Portuguese
+459,Q15_Particle-and-verb answer to indefinite subject question,No,Portuguese
+460,Q16_NEGA_Negative answer by special neg particle,No,Portuguese
+461,Q17_NEGA_Neg answer by bare sentential negation,Yes,Portuguese
+462,Q18_NEGA_Neg answer by sentential neg plus bare verb,Yes,Portuguese
+463,Q19_ANegQ_Truth-based confirmation,No,Portuguese
+464,Q20_ANegQ_Polarity-based confirmation,Yes,Portuguese
+465,Q21_ANegQ_Polarity-reversing particle,No,Portuguese
+466,Q22_ANegQ_Polarity-reversing answer by affirmative and special particle,No,Portuguese
+423,V2 01_Declarative Verb-Second,No,Portuguese
+424,V2 02_Interrogative Verb-Second,No,Portuguese
+374,V_Aux 01_Aux.Selection,No,Portuguese
+512,Voc_PN_01 Can be bare?,Yes,Portuguese
+514,Voc_PN_02 Can have an article,No,Portuguese
+513,Voc_PN_03 Must have an article?,No,Portuguese
+516,Voc_PN_04 Can have a special vocative marker?,Yes,Portuguese
+515,Voc_PN_05 Must have a special vocative marker?,No,Portuguese
+517,Voc_Pl_01 Can be bare?,Yes,Portuguese
+519,Voc_Pl_02 Can have an article?,No,Portuguese
+518,Voc_Pl_03 Must have an article?,No,Portuguese
+521,Voc_Pl_04 Can have a special vocative marker?,Yes,Portuguese
+520,Voc_Pl_05 Must have a special vocative marker?,No,Portuguese
+507,Voc_Sg_01 Can be bare?,Yes,Portuguese
+509,Voc_Sg_02 Can have an article?,No,Portuguese
+508,Voc_Sg_03 Must have an article?,No,Portuguese
+511,Voc_Sg_04 Can have a special vocative marker?,Yes,Portuguese
+510,Voc_Sg_05 Must have a special vocative marker?,No,Portuguese
+523,latlong,"-23.33,-46.38",Portuguese

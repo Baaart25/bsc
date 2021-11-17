@@ -1,0 +1,121 @@
+ID,Name,Value,Language
+405,01_SV,Yes,Hebrew
+404,02_VS,Yes,Hebrew
+375,03_VO,Yes,Hebrew
+376,04_OV,No,Hebrew
+378,05_SVO,Yes,Hebrew
+379,06_SOV,No,Hebrew
+380,07_VSO,No,Hebrew
+381,08_VOS,No,Hebrew
+382,09_OSV,No,Hebrew
+383,10_OVS,No,Hebrew
+390,11_P NP,Yes,Hebrew
+391,12_NP P,No,Hebrew
+437,13_A N,No,Hebrew
+377,14_N A,Yes,Hebrew
+384,15_Num N,Yes,Hebrew
+385,16_N Num,Yes,Hebrew
+386,17_Dem N,Yes,Hebrew
+387,18_N Dem,Yes,Hebrew
+394,19_Poss N,No,Hebrew
+395,20_N Poss,Yes,Hebrew
+426,21_Pron.Poss N,No,Hebrew
+425,22_N Pron.Poss,Yes,Hebrew
+406,A 01_Attr.Adj Agr,Yes,Hebrew
+407,A 02_Pred.Adj Agr ,Yes,Hebrew
+396,A 03_Deg A,Yes,Hebrew
+397,A 04_A Deg,Yes,Hebrew
+388,C 01_C Clause,Yes,Hebrew
+389,C 02_Clause C,No,Hebrew
+392,C 03_Adv.Sub Clause,Yes,Hebrew
+393,C 04_Clause Adv.Sub,Yes,Hebrew
+408,Extra Examples,No,Hebrew
+524,ISO 639-3 Code,heb,Hebrew
+434,N2 01_Num N_(indef),Yes,Hebrew
+433,N2 02_N Num_(indef),Yes,Hebrew
+435,N2 03_Num N_(def),Yes,Hebrew
+436,N2 04_N Num_(def),No,Hebrew
+438,N2 F1_ Def NumN/N Num has a Def Art?,Yes,Hebrew
+439,N2 F2_Def NumN or NNum can have a DEM?,Yes,Hebrew
+440,N2 F3_Def NumN or NNum can be bare,No,Hebrew
+441,N2 F4a_Def NumN or NNum marks Pl but Indef Num N lacks Pl,No,Hebrew
+817,"N2 F4b_Indef Num N marks plural, but Def Num N does not.",No,Hebrew
+442,N2 F5_Def NumN or NNum differs from Indef NumN,No,Hebrew
+443,"N2 F6_Num has different form in Def and Indef (Num N, N Num) contexts",Yes,Hebrew
+444,"N2 F7_ N has different form in Def/Indef  (Num N, N Num) contexts",No,Hebrew
+398,N3 01_ Dem A N,No,Hebrew
+399,N3 02_Dem N A,Yes,Hebrew
+403,N3 03_ N A Dem,Yes,Hebrew
+402,N3 04_N Dem A,No,Hebrew
+400,N3 05_A Dem N,No,Hebrew
+401,N3 06_A N Dem,No,Hebrew
+427,N3 07_Dem Num N,No,Hebrew
+428,N3 08_Dem N Num,No,Hebrew
+429,N3 09_ N Num Dem,No,Hebrew
+430,N3 10_N Dem Num,No,Hebrew
+431,N3 11_Num Dem N,No,Hebrew
+432,N3 12_Num N Dem,Yes,Hebrew
+415,Neg 01_ Neg is Part (...) Verb,Yes,Hebrew
+416,Neg 02_Neg is V (...) Part,No,Hebrew
+420,Neg 03_Dist.Neg of  Class/Property,No,Hebrew
+419,Neg 04_Dist.Neg of identity,Yes,Hebrew
+421,Neg 05_Dist Neg of Location,Yes,Hebrew
+422,Neg 06_Dist.Neg of Existence,Yes,Hebrew
+417,Neg F1_Neg is NegAux,Yes,Hebrew
+418,Neg F2_ Neg is lexical V,No,Hebrew
+412,Neg F3_Neg is Tonal,No,Hebrew
+413,Neg F4_Neg is Tone and other modification,No,Hebrew
+414,Neg F5_Neg is Reduplication,No,Hebrew
+411,Neg F6_Neg is Infix,No,Hebrew
+467,O 01 1_Indef Mass_Can be bare,Yes,Hebrew
+469,O 01 2_Indef_Mass_Can have an article,No,Hebrew
+468,O 01 3_Indef_Mass_Must have an article,No,Hebrew
+470,O 02 1_Def_Mass _Can be bare,No,Hebrew
+472,O 02 2_Def_Mass _Can  have an article,No,Hebrew
+471,O 02 3_Def_Mass _Must have an article,Yes,Hebrew
+501,O 02 4.1_DefMass_Art-N,Yes,Hebrew
+502,O 02 4.2_DefMass_N-Art,No,Hebrew
+474,O 03 1_Indef_Sg_Can be bare,Yes,Hebrew
+473,O 03 2_Indef_Sg_Can have an article,No,Hebrew
+475,O 03 3_Indef_Sg_Must have an article,No,Hebrew
+476,O 03 4_Indef_Sg_Can have a plural reading,No,Hebrew
+477,O 04 1_Def_Sg_Can be bare,No,Hebrew
+479,O 04 2_Def_Sg_Can have an article,No,Hebrew
+478,O 04 3_Def_Sg_Must have an article,Yes,Hebrew
+503,O 04 4.1_DefSg_Art-N,Yes,Hebrew
+504,O 04 4.2_DefSg_N-Art,No,Hebrew
+480,O 05 1_Indef_Pl_Can be bare,Yes,Hebrew
+482,O 05 2_Indef_Pl_Can have an article,No,Hebrew
+481,O 05 3_Indef_Pl_Must have an article,No,Hebrew
+483,O 06 1_Def_Pl_Can be bare,No,Hebrew
+485,O 06 2_Def_Pl_Can have an article,No,Hebrew
+484,O 06 3_Def_Pl_Must have an article,Yes,Hebrew
+505,O 06 4.1_DefPl_Art-N,Yes,Hebrew
+445,Q01_Initial polar Q-marker,Yes,Hebrew
+446,Q02_Final polar Q-marker,No,Hebrew
+447,Q03_Clause internal polar Q-marker,No,Hebrew
+448,Q04_Polar question by intonation,Yes,Hebrew
+449,Q05_Polar question by V-fronting,No,Hebrew
+450,Q06_Polar question by Aux-fronting,No,Hebrew
+451,Q07_Q-marker follows narrow focus,No,Hebrew
+452,Q08_Affirmative answer by particle,Yes,Hebrew
+453,Q09_Affirmative answer by V,Yes,Hebrew
+454,Q10_Affirmative answer by aux,Yes,Hebrew
+455,Q11_Affirmative answer by auxiliary and verb,No,Hebrew
+456,Q12_Affirmative answer by particle and verb,Yes,Hebrew
+457,Q13_Affirmative answer by predicative 'be' ,No,Hebrew
+458,Q14_Verb answer to indefinite subject question,No,Hebrew
+459,Q15_Particle-and-verb answer to indefinite subject question,No,Hebrew
+460,Q16_NEGA_Negative answer by special neg particle,No,Hebrew
+461,Q17_NEGA_Neg answer by bare sentential negation,Yes,Hebrew
+462,Q18_NEGA_Neg answer by sentential neg plus bare verb,No,Hebrew
+463,Q19_ANegQ_Truth-based confirmation,No,Hebrew
+464,Q20_ANegQ_Polarity-based confirmation,Yes,Hebrew
+465,Q21_ANegQ_Polarity-reversing particle,No,Hebrew
+466,Q22_ANegQ_Polarity-reversing answer by affirmative and special particle,Yes,Hebrew
+737,S03_1 Indef Sg count Ns (Subj) can be bare,Yes,Hebrew
+738,S03_3 Indef Sg count Ns (Subj) must have an article,No,Hebrew
+423,V2 01_Declarative Verb-Second,No,Hebrew
+424,V2 02_Interrogative Verb-Second,No,Hebrew
+374,V_Aux 01_Aux.Selection,NA,Hebrew
+523,latlong,"31.7857,35.2007",Hebrew

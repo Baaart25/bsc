@@ -1,0 +1,43 @@
+ID,Name,Value,Language
+405,01_SV,Yes,Persian
+404,02_VS,No,Persian
+375,03_VO,No,Persian
+376,04_OV,Yes,Persian
+378,05_SVO,No,Persian
+379,06_SOV,Yes,Persian
+380,07_VSO,No,Persian
+381,08_VOS,No,Persian
+382,09_OSV,No,Persian
+383,10_OVS,No,Persian
+377,14_N A,Yes,Persian
+384,15_Num N,Yes,Persian
+386,17_Dem N,Yes,Persian
+395,20_N Poss,Yes,Persian
+425,22_N Pron.Poss,Yes,Persian
+396,A 03_Deg A,Yes,Persian
+388,C 01_C Clause,Yes,Persian
+524,ISO 639-3 Code,fas,Persian
+399,N3 02_Dem N A,Yes,Persian
+427,N3 07_Dem Num N,Yes,Persian
+415,Neg 01_ Neg is Part (...) Verb,Yes,Persian
+416,Neg 02_Neg is V (...) Part,No,Persian
+417,Neg F1_Neg is NegAux,No,Persian
+418,Neg F2_ Neg is lexical V,No,Persian
+412,Neg F3_Neg is Tonal,No,Persian
+413,Neg F4_Neg is Tone and other modification,No,Persian
+414,Neg F5_Neg is Reduplication,No,Persian
+411,Neg F6_Neg is Infix,No,Persian
+474,O 03 1_Indef_Sg_Can be bare,Yes,Persian
+473,O 03 2_Indef_Sg_Can have an article,Yes,Persian
+475,O 03 3_Indef_Sg_Must have an article,No,Persian
+476,O 03 4_Indef_Sg_Can have a plural reading,Yes,Persian
+477,O 04 1_Def_Sg_Can be bare,Yes,Persian
+479,O 04 2_Def_Sg_Can have an article,Yes,Persian
+478,O 04 3_Def_Sg_Must have an article,No,Persian
+445,Q01_Initial polar Q-marker,Yes,Persian
+448,Q04_Polar question by intonation,Yes,Persian
+449,Q05_Polar question by V-fronting,No,Persian
+450,Q06_Polar question by Aux-fronting,No,Persian
+423,V2 01_Declarative Verb-Second,No,Persian
+424,V2 02_Interrogative Verb-Second,No,Persian
+523,latlong,"35.696,51.423",Persian

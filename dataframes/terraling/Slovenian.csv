@@ -1,0 +1,49 @@
+ID,Name,Value,Language
+405,01_SV,Yes,Slovenian
+404,02_VS,No,Slovenian
+375,03_VO,Yes,Slovenian
+376,04_OV,Yes,Slovenian
+378,05_SVO,Yes,Slovenian
+379,06_SOV,No,Slovenian
+380,07_VSO,No,Slovenian
+381,08_VOS,No,Slovenian
+382,09_OSV,No,Slovenian
+383,10_OVS,No,Slovenian
+390,11_P NP,Yes,Slovenian
+391,12_NP P,No,Slovenian
+437,13_A N,Yes,Slovenian
+377,14_N A,Yes,Slovenian
+384,15_Num N,Yes,Slovenian
+385,16_N Num,No,Slovenian
+386,17_Dem N,Yes,Slovenian
+387,18_N Dem,No,Slovenian
+394,19_Poss N,Yes,Slovenian
+395,20_N Poss,Yes,Slovenian
+426,21_Pron.Poss N,Yes,Slovenian
+425,22_N Pron.Poss,No,Slovenian
+406,A 01_Attr.Adj Agr,Yes,Slovenian
+407,A 02_Pred.Adj Agr ,Yes,Slovenian
+396,A 03_Deg A,Yes,Slovenian
+397,A 04_A Deg,No,Slovenian
+388,C 01_C Clause,Yes,Slovenian
+389,C 02_Clause C,No,Slovenian
+392,C 03_Adv.Sub Clause,Yes,Slovenian
+393,C 04_Clause Adv.Sub,No,Slovenian
+524,ISO 639-3 Code,slv,Slovenian
+434,N2 01_Num N_(indef),Yes,Slovenian
+433,N2 02_N Num_(indef),No,Slovenian
+435,N2 03_Num N_(def),Yes,Slovenian
+436,N2 04_N Num_(def),No,Slovenian
+398,N3 01_ Dem A N,Yes,Slovenian
+399,N3 02_Dem N A,Yes,Slovenian
+403,N3 03_ N A Dem,No,Slovenian
+402,N3 04_N Dem A,No,Slovenian
+400,N3 05_A Dem N,No,Slovenian
+401,N3 06_A N Dem,No,Slovenian
+416,Neg 02_Neg is V (...) Part,No,Slovenian
+412,Neg F3_Neg is Tonal,No,Slovenian
+413,Neg F4_Neg is Tone and other modification,No,Slovenian
+414,Neg F5_Neg is Reduplication,No,Slovenian
+411,Neg F6_Neg is Infix,No,Slovenian
+374,V_Aux 01_Aux.Selection,No,Slovenian
+523,latlong,"46.12031358571474,14.815433621406555",Slovenian
